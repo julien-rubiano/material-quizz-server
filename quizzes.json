@@ -4,7 +4,7 @@
     "title": "Quizz numéro 1",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at erat maximus, suscipit erat sit amet, rhoncus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed hendrerit sapien diam, eget varius augue blandit at. Aenean nec purus leo. Mauris gravida hendrerit lorem, ut convallis mauris vulputate id. \n\nQuisque vestibulum, odio at dignissim fermentum, nulla lorem sodales tortor, vitae aliquet urna nibh quis lectus. Nunc gravida non velit a consectetur. Fusce mattis quam eget ipsum ullamcorper efficitur. Pellentesque suscipit sapien leo, quis pretium tortor vestibulum id. \n\nNam nunc velit, imperdiet egestas ligula ultricies, tempor consequat ligula. Aliquam mollis, nisl quis tincidunt vestibulum, lacus ante lacinia turpis, nec consequat erat magna sit amet ante. Mauris blandit quam in cursus aliquet. \n\nUt sed nunc at augue aliquet egestas. Nullam finibus nisl eu condimentum blandit. Etiam efficitur tellus vitae mattis ultrices.",
     "isRandomQuestions": true,
-    "duration": 25,
+    "duration": 10,
     "questions": [
       {
         "id": "ba7d9ca4-0835-11ed-861d-0242ac120002",
@@ -176,7 +176,7 @@
   },
   {
     "id": "d9ef8fa0-08d7-11ed-8bb9-4b80e92524e1",
-    "title": "Quizz numéro 3",
+    "title": "Quizz numéro 4",
     "description": "vzvzevzevzevzevze",
     "isRandomQuestions": false,
     "duration": 0,
