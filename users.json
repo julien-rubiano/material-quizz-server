@@ -1,0 +1,74 @@
+[
+  {
+    "id": "c618e0e6-0835-11ed-861d-0242ac120002",
+    "firstName": "Admin",
+    "lastName": "Admin",
+    "login": "admin",
+    "password": "admin",
+    "isAdmin": true
+  },
+  {
+    "id": "217da3b0-083e-11ed-b966-27ade4cfc250",
+    "firstName": "Mark",
+    "lastName": "Zuckerberg",
+    "login": "mzuckerberg",
+    "password": "bM@maHcUzjsTFv4",
+    "isAdmin": false
+  },
+  {
+    "id": "fea2f380-083e-11ed-943e-b37ae2fdd14b",
+    "firstName": "Jeff",
+    "lastName": "Bezos",
+    "login": "jbezos",
+    "password": "bM@maHcUzjsTFv4",
+    "isAdmin": false
+  },
+  {
+    "id": "1e2b4ef0-083f-11ed-b45e-4b343518d946",
+    "firstName": "Elon",
+    "lastName": "Musk",
+    "login": "emusk",
+    "password": "bM@maHcUzjsTFv4",
+    "isAdmin": false
+  },
+  {
+    "id": "eb1d5d50-0866-11ed-a416-892cf2e009a9",
+    "firstName": "Tim",
+    "lastName": "Cook",
+    "login": "tcook",
+    "password": "bM@maHcUzjsTFv4",
+    "isAdmin": false
+  },
+  {
+    "id": "07044f10-0867-11ed-b339-e59734f29c6d",
+    "firstName": "Sundar",
+    "lastName": "Pichai",
+    "login": "spichai",
+    "password": "bM@maHcUzjsTFv4",
+    "isAdmin": false
+  },
+  {
+    "id": "1e7ac750-0867-11ed-848f-2f7d7bb4d86d",
+    "firstName": "Marillyn",
+    "lastName": "Hewson",
+    "login": "mhewson",
+    "password": "bM@maHcUzjsTFv4",
+    "isAdmin": false
+  },
+  {
+    "id": "2e4c4f00-0867-11ed-b88a-ffbce39bfaf8",
+    "firstName": "Satya",
+    "lastName": "Nadella",
+    "login": "snadella",
+    "password": "bM@maHcUzjsTFv4",
+    "isAdmin": false
+  },
+  {
+    "id": "344cb750-0867-11ed-9bba-173884e85a83",
+    "firstName": "Bill",
+    "lastName": "Gates",
+    "login": "bgates",
+    "password": "bM@maHcUzjsTFv4",
+    "isAdmin": false
+  }
+]
