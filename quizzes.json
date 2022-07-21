@@ -3,13 +3,13 @@
     "id": "c08349be-0835-11ed-861d-0242ac120002",
     "title": "Quizz numéro 1",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis at erat maximus, suscipit erat sit amet, rhoncus turpis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Sed hendrerit sapien diam, eget varius augue blandit at. Aenean nec purus leo. Mauris gravida hendrerit lorem, ut convallis mauris vulputate id. \n\nQuisque vestibulum, odio at dignissim fermentum, nulla lorem sodales tortor, vitae aliquet urna nibh quis lectus. Nunc gravida non velit a consectetur. Fusce mattis quam eget ipsum ullamcorper efficitur. Pellentesque suscipit sapien leo, quis pretium tortor vestibulum id. \n\nNam nunc velit, imperdiet egestas ligula ultricies, tempor consequat ligula. Aliquam mollis, nisl quis tincidunt vestibulum, lacus ante lacinia turpis, nec consequat erat magna sit amet ante. Mauris blandit quam in cursus aliquet. \n\nUt sed nunc at augue aliquet egestas. Nullam finibus nisl eu condimentum blandit. Etiam efficitur tellus vitae mattis ultrices.",
-    "isRandomQuestions": true,
+    "isRandomQuestions": false,
     "duration": 10,
     "questions": [
       {
         "id": "ba7d9ca4-0835-11ed-861d-0242ac120002",
         "title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
-        "isRandomAnswers": true,
+        "isRandomAnswers": false,
         "answers": [
           {
             "id": "ada66cea-0835-11ed-861d-0242ac120002",
@@ -75,7 +75,24 @@
       {
         "id": "d5501650-0868-11ed-a611-f77daa179fdf",
         "title": "Donec lobortis quam in diam porta, sit amet convallis elit vestibulum?",
-        "isRandomAnswers": false,
+        "isRandomAnswers": true,
+        "answers": [
+          {
+            "id": "dd8a6910-0868-11ed-b206-83b9e837d84f",
+            "title": "Vrai",
+            "isValid": true
+          },
+          {
+            "id": "ed6bf650-0868-11ed-ad8c-6ff59d602955",
+            "title": "Faux",
+            "isValid": ""
+          }
+        ]
+      },
+      {
+        "id": "d5501650-0868-11ed-a611-f77daa179fdf",
+        "title": "Donec lobortis quam in diam porta, sit amet convallis elit vestibulum?",
+        "isRandomAnswers": true,
         "answers": [
           {
             "id": "dd8a6910-0868-11ed-b206-83b9e837d84f",
