@@ -1,6 +1,8 @@
 # Material Quizz Server
 
-This project has been created to build REST APIs for the client https://github.com/julien-rubiano/material-quizz-client
+This project has been created to build REST APIs for the client https://github.com/julien-rubiano/material-quizz-client in Javascript
+
+It has been built with express and it uses JSON files locally as database.
 
 ## Development server
 
