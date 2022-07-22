@@ -43,7 +43,11 @@ app.post("/users", (req, res) => {
 
 app.post("/users/auth", (req, res) => {
   const user = users.find((user) => user.login == req.body.login && user.password == req.body.password);
-  res.status(200).json(user);
+  if (!!user) {
+    res.status(200).json(user);
+  } else {
+    res.status(404).json("Les identifiants saisis ne permettent pas de vous connecter.");
+  }
 });
 
 app.put("/users/:id", (req, res) => {
